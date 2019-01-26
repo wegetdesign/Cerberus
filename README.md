@@ -1,4 +1,4 @@
-# Cerberus Responsive Email Patterns
+# MyLeads (Cerberus adapted responsive email patterns)
 
 <a href="http://tedgoas.github.io/Cerberus/"><img src="http://tedgoas.github.io/Cerberus/assets/logo.png" alt="Cerberus logo" width="75" height="64" align="left" hspace="10" vspace="6"></a>
 
